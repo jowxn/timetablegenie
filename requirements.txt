@@ -1,0 +1,6 @@
+ortools
+pandas
+pydantic
+streamlit
+google-genai
+python-dotenv
